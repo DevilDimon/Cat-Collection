@@ -1,0 +1,8 @@
+"cats.title" = "The Cat Collection";
+"cats.search.placeholder" = "Search";
+
+"details.origin" = "Country of origin: %@";
+"details.origin.unknown" = "Unknown origin";
+"details.temperament" = "Temperament: %@";
+"details.wikilink" = "Wikipedia link: %@";
+"details.wikilink.unavailable" = "No Wikipedia link available.";
